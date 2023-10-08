@@ -41,7 +41,7 @@ To use this project, follow these steps:
 
 1. Clone the repository to your local machine:
 
-`git clone https://github.com/Sia-11/credit-card-fraud-detection.git`
+`git clone https://github.com/Sia-11/Credit_Card_Fraud_Detection.git`
 
 2. Navigate to the project directory
 
